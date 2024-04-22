@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2nYSo4OftM4t6wTkeqQ5wjbE3fqbnZqcazETXHM5PbOcjKCkN5cD4EJCnquPQFyPKkAnsSfuI4lVxKZ+tNxrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amrit Pokharel\\Desktop\\Contents\\College Project\\FastFoodKitchen\\Fast Food Restaurant\\Fast Food Restaurant\\Fast Food Restaurant.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amrit Pokharel\\.nuget\\packages\\microsoft.reportviewer.common\\10.0.40219.1\\microsoft.reportviewer.common.10.0.40219.1.nupkg.sha512",
+    "C:\\Users\\Amrit Pokharel\\.nuget\\packages\\microsoft.reportviewer.winforms\\10.0.40219.1\\microsoft.reportviewer.winforms.10.0.40219.1.nupkg.sha512",
+    "C:\\Users\\Amrit Pokharel\\.nuget\\packages\\visualbasic.powerpacks.vs\\1.0.0\\visualbasic.powerpacks.vs.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

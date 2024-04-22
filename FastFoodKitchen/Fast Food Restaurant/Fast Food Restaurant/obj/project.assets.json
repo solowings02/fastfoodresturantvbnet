@@ -1,0 +1,306 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Microsoft.ReportViewer.Common/10.0.40219.1": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.ReportViewer.Common.dll": {},
+          "lib/Microsoft.ReportViewer.DataVisualization.dll": {},
+          "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.ReportViewer.Common.dll": {},
+          "lib/Microsoft.ReportViewer.DataVisualization.dll": {},
+          "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll": {}
+        }
+      },
+      "Microsoft.ReportViewer.WinForms/10.0.40219.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Windows.Forms"
+        ],
+        "compile": {
+          "lib/Microsoft.ReportViewer.WinForms.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.ReportViewer.WinForms.dll": {}
+        }
+      },
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "Microsoft.ReportViewer.Common/10.0.40219.1": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.ReportViewer.Common.dll": {},
+          "lib/Microsoft.ReportViewer.DataVisualization.dll": {},
+          "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.ReportViewer.Common.dll": {},
+          "lib/Microsoft.ReportViewer.DataVisualization.dll": {},
+          "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll": {}
+        }
+      },
+      "Microsoft.ReportViewer.WinForms/10.0.40219.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Windows.Forms"
+        ],
+        "compile": {
+          "lib/Microsoft.ReportViewer.WinForms.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.ReportViewer.WinForms.dll": {}
+        }
+      },
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "Microsoft.ReportViewer.Common/10.0.40219.1": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.ReportViewer.Common.dll": {},
+          "lib/Microsoft.ReportViewer.DataVisualization.dll": {},
+          "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.ReportViewer.Common.dll": {},
+          "lib/Microsoft.ReportViewer.DataVisualization.dll": {},
+          "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll": {}
+        }
+      },
+      "Microsoft.ReportViewer.WinForms/10.0.40219.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Windows.Forms"
+        ],
+        "compile": {
+          "lib/Microsoft.ReportViewer.WinForms.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.ReportViewer.WinForms.dll": {}
+        }
+      },
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "Microsoft.ReportViewer.Common/10.0.40219.1": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.ReportViewer.Common.dll": {},
+          "lib/Microsoft.ReportViewer.DataVisualization.dll": {},
+          "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.ReportViewer.Common.dll": {},
+          "lib/Microsoft.ReportViewer.DataVisualization.dll": {},
+          "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll": {}
+        }
+      },
+      "Microsoft.ReportViewer.WinForms/10.0.40219.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Windows.Forms"
+        ],
+        "compile": {
+          "lib/Microsoft.ReportViewer.WinForms.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.ReportViewer.WinForms.dll": {}
+        }
+      },
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "Microsoft.ReportViewer.Common/10.0.40219.1": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.ReportViewer.Common.dll": {},
+          "lib/Microsoft.ReportViewer.DataVisualization.dll": {},
+          "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.ReportViewer.Common.dll": {},
+          "lib/Microsoft.ReportViewer.DataVisualization.dll": {},
+          "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll": {}
+        }
+      },
+      "Microsoft.ReportViewer.WinForms/10.0.40219.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Windows.Forms"
+        ],
+        "compile": {
+          "lib/Microsoft.ReportViewer.WinForms.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.ReportViewer.WinForms.dll": {}
+        }
+      },
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.ReportViewer.Common/10.0.40219.1": {
+      "sha512": "BvYKVVgeRwdwiqCDUdIbaV179YIXg4RD+MlHI4KndReULmM2xO6KGlYmxOOMB/Lq5ktwFuMVyChbZgpgUqEgHw==",
+      "type": "package",
+      "path": "microsoft.reportviewer.common/10.0.40219.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Microsoft.ReportViewer.Common.dll",
+        "lib/Microsoft.ReportViewer.DataVisualization.dll",
+        "lib/Microsoft.ReportViewer.ProcessingObjectModel.dll",
+        "microsoft.reportviewer.common.10.0.40219.1.nupkg.sha512",
+        "microsoft.reportviewer.common.nuspec"
+      ]
+    },
+    "Microsoft.ReportViewer.WinForms/10.0.40219.1": {
+      "sha512": "jUPFTKTQ+HHr2uttku6fKoxTR4nsQfQEaTqABtopWPHRvRjKHTSKfexMqW0SwnWToQIAG5u2T5w/9j0iGW44mQ==",
+      "type": "package",
+      "path": "microsoft.reportviewer.winforms/10.0.40219.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Microsoft.ReportViewer.WinForms.dll",
+        "microsoft.reportviewer.winforms.10.0.40219.1.nupkg.sha512",
+        "microsoft.reportviewer.winforms.nuspec"
+      ]
+    },
+    "VisualBasic.PowerPacks.Vs/1.0.0": {
+      "sha512": "IiQWQjCWfPmwR8Q1P1V/z1Et7Mr3QG4RUw+mgXuUgNvseNm06VDEZu8DwlZx9UXw+Uf6E7E/d5wXpGEYJOuG7g==",
+      "type": "package",
+      "path": "visualbasic.powerpacks.vs/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll",
+        "lib/Microsoft.VisualBasic.dll",
+        "visualbasic.powerpacks.vs.1.0.0.nupkg.sha512",
+        "visualbasic.powerpacks.vs.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Microsoft.ReportViewer.Common >= 10.0.40219.1",
+      "Microsoft.ReportViewer.WinForms >= 10.0.40219.1",
+      "VisualBasic.PowerPacks.Vs >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Amrit Pokharel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Amrit Pokharel\\Desktop\\Contents\\College Project\\FastFoodKitchen\\Fast Food Restaurant\\Fast Food Restaurant\\Fast Food Restaurant.vbproj",
+      "projectName": "Fast Food Restaurant",
+      "projectPath": "C:\\Users\\Amrit Pokharel\\Desktop\\Contents\\College Project\\FastFoodKitchen\\Fast Food Restaurant\\Fast Food Restaurant\\Fast Food Restaurant.vbproj",
+      "packagesPath": "C:\\Users\\Amrit Pokharel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Amrit Pokharel\\Desktop\\Contents\\College Project\\FastFoodKitchen\\Fast Food Restaurant\\Fast Food Restaurant\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Amrit Pokharel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "Microsoft.ReportViewer.Common": {
+            "target": "Package",
+            "version": "[10.0.40219.1, )"
+          },
+          "Microsoft.ReportViewer.WinForms": {
+            "target": "Package",
+            "version": "[10.0.40219.1, )"
+          },
+          "VisualBasic.PowerPacks.Vs": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
